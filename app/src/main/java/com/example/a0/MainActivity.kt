@@ -136,9 +136,5 @@ fun DecisionMakerScreen(
             Text("1800282 - cvh")
         }
     }
-
-    LazyColumn(
-
-    ) { }
 }
 
